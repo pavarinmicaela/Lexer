@@ -1,4 +1,4 @@
-# presentacion-pavarinmicaela
-presentacion-pavarinmicaela created by GitHub Classroom
 ## **Maria Micaela Pavarin**
-- Numero de legajo: 10934
+#*Estudiante de Ingeniería en Sistemas de Información*
+-Numero de legajo: 10934
+-Edad:20 años
